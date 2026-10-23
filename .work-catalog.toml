@@ -1,0 +1,13 @@
+# Project metadata for work-catalog. Edit deliberately; refresh imports changes.
+schema_version = 1
+
+[project]
+id = "racket-markdown-to-scribble-c27b8d51"
+purpose = "CommonMark/Markdown-to-Scribble conversion library and examples."
+state = "parked"
+next_action = "Review and preserve the reported local changes before delivery; establish the intended next task without inferring lifecycle."
+tags = ["Racket", "Scribble", "repository", "xint"]
+
+[annotations]
+tags = []
+note = ""
