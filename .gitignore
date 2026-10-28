@@ -7,3 +7,4 @@ compiled/
 *.html
 *.js
 *.css
+/tmp/
